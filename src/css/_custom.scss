@@ -12,6 +12,10 @@ table {
 	table-layout: fixed;
 }
 
+.table td {
+	word-break: keep-all;
+}
+
 .portlet-topper {
 	z-index: 1;
 }
